@@ -1,5 +1,5 @@
- Hi 👋, I'm Prateek Patel
- A passionate learner, cybersecurity enthusiast, and Linux explorer
+<h1 align="center">Hi 👋, I'm Prateek Patel</h1>
+<h3 align="center">A passionate learner, cybersecurity enthusiast, and Linux explorer</h3>
 
 - 🔭 I’m currently working on **Linux fundamentals and ethical hacking**
 - 🌱 I’m currently learning **penetration testing, shell scripting, and Windows Server**
